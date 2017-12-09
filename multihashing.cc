@@ -26,7 +26,7 @@ extern "C" {
     #include "lbry.h"
 }
 
-#include "boolberry.h"
+
 
 using namespace node;
 using namespace v8;
