@@ -3,8 +3,8 @@
         {
             "target_name": "multihashing",
             "sources": [
-                "multihashing.cc",
-                "lbry.cpp"
+                "multihashing.cc"
+                
             ],
             "include_dirs": [
                 "crypto",
